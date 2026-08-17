@@ -1,0 +1,7 @@
+{
+  "name": "VoxelCraft 3D",
+  "description": "A lightweight, high-performance 3D voxel sandbox crafting game with procedural terrain, creative & survival modes, smooth lighting, and customizable graphics for all devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
